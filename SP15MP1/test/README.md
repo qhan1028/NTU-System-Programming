@@ -1,0 +1,1 @@
+There are four sets of sample input and output file. ex?_1 and ex?_2 are sample input files, and ex?_3 are sample output files. You can compare your output wihth ex?_3 to check correctness of your porgram.
